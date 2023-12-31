@@ -7,4 +7,7 @@ db.sqlite3
 */*/.DS_Store
 venv/
 .venv
-media/item_images
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
